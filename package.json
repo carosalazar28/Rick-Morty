@@ -1,0 +1,14 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "Este es un proyecto para crear una single page aplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Carolina Salazar <cindy.s.r.28@hotmail.com>",
+  "license": "MIT"
+}
